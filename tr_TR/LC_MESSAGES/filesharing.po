@@ -24,7 +24,7 @@ msgstr "Dosya paylaşımı"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:15
 msgid "Share files in a directory like structure"
-msgstr "Yapı gibi bir dizinde dosya paylaşın"
+msgstr "Dizin benzeri bir yapıda dosyaları paylaşın"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:28
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:171
